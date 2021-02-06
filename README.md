@@ -1,16 +1,15 @@
-### Hi there 👋
+# 日本語
 
-<!--
-**task58/task58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## プロフィール
 
-Here are some ideas to get you started:
+・minecraft大好き   
+・主に使う言語はtypescript,javascript   
+・小学六年生(2021年2月現在)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# English(google translate)
+
+## Profile
+
+・ I love minecraft   
+・ Mainly used languages are typescript and javascript   
+・ Sixth grade elementary school student (as of February 2021)   
